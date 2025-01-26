@@ -51,14 +51,10 @@ Follow these steps to get started with the project:
      REACT_APP_API_KEY=your-google-gemini-api-key
      ```
 
-4. **Start the Development Server** 🌐
+4. **Start the run Server** 🌐
    ```bash
    npm run dev
    ```
-
-5. **Build for Production** 🏗️
-   ```bash
-   npm run build
    ```
 
 ---
