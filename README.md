@@ -55,7 +55,6 @@ Follow these steps to get started with the project:
    ```bash
    npm run dev
    ```
-   ```
 
 ---
 
