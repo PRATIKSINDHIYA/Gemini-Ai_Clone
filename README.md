@@ -53,7 +53,7 @@ Follow these steps to get started with the project:
 
 4. **Start the Development Server** 🌐
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. **Build for Production** 🏗️
